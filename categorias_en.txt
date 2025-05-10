@@ -1,0 +1,14 @@
+1|Pants|Comfortable sports pants|19.99|camiseta.png
+2|Shirts|Formal cotton shirt|25.50
+3|Tshirts|Casual t-shirt for daily use|14.75
+4|Tracksuits|Full tracksuit set|39.90
+5|Tights|Elastic training tights|17.30
+6|Poles|Technical hiking poles|22.10
+7|Sweatshirts|Hooded cotton sweatshirt|29.99
+8|Jackets|Waterproof outdoor jacket|49.50
+9|Fleece linings|Soft fleece for cold weather|32.00
+10|Vests|Sleeveless training vest|18.40
+11|Coats|Long winter coat|55.00
+12|Sweaters|Wool sweater|24.90
+13|Ties|Classic silk tie|12.00
+14|Shoes|Running shoes|45.99
