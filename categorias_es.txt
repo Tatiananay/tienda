@@ -1,0 +1,14 @@
+1|Pantalones|Comodos pantalones deportivos|19.99
+2|Camisas|Camisa de algodón formal|25.50
+3|Camisetas|Camiseta casual para uso diario|14.75
+4|Chandals|Conjunto completo de chándal|39.90
+5|Mallas|Mallas elásticas para entrenamiento|17.30
+6|Polos|Polo técnico para actividades al aire libre|22.10
+7|Sudaderas|Sudadera de algodón con capucha|29.99
+8|Chaquetas|Chaqueta impermeable para exteriores|49.50
+9|Forros polares|Forro polar suave para clima frío|32.00
+10|Chalecos|Chaleco sin mangas para entrenamiento|18.40
+11|Abrigos|Abrigo largo de invierno|55.00
+12|Jerseys|Jersey de lana|24.90
+13|Corbatas|Corbata clásica de seda|12.00
+14|Zapatos|Zapatos deportivos para correr|45.99
