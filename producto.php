@@ -54,6 +54,7 @@ if (isset($_GET["nombre"])) {
     <?php else: ?>
         <p><strong><?php echo ($idioma == "en") ? "Product not found." : "Producto no encontrado."; ?></strong></p>
     <?php endif; ?>
+    <br>
     <a href="panel.php?idioma=<?php echo $idioma; ?>"><?php echo ($idioma == "en") ? "Back to panel" : "Volver al panel"; ?></a>
 </body>
 </html>
