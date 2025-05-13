@@ -56,7 +56,7 @@ if (isset($_GET["nombre"])) {
         <p><strong><?php echo ($idioma == "en") ? "Price" : "Precio"; ?>:</strong> $<?php echo $precio; ?></p>
         <?php if ($imagen): ?>
         <p><strong><?php echo ($idioma == "en") ? "Image" : "Imagen"; ?>:</strong></p>
-        <img src="../imagenes/<?php echo htmlspecialchars($imagen); ?>" alt="<?php echo htmlspecialchars($nombre); ?>" width="200">
+        <img src="./imagenes/<?php echo htmlspecialchars($imagen); ?>" alt="<?php echo htmlspecialchars($nombre); ?>" width="200">
         <?php endif; ?>
     <?php else: ?>
         <p><strong><?php echo ($idioma == "en") ? "Product not found." : "Producto no encontrado."; ?></strong></p>
